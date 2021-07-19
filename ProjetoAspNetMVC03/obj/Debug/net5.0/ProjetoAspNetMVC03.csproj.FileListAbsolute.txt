@@ -1,0 +1,342 @@
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetMVC03.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.genruntimeconfig.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.input.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.output.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorCoreGenerate.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 14.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.dev.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.Manifest.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.xml
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetMVC03.styles.css
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.input.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.output.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorCoreGenerate.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper Noite SQS 03\Aula 10 - 16.07.21\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\appsettings.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.exe
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.runtimeconfig.dev.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Dapper.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorAssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.Manifest.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\staticwebassets\ProjetoAspNetMVC03.StaticWebAssets.xml
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\scopedcss\bundle\ProjetoAspNetMVC03.styles.css
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.input.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.TagHelpers.output.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorCoreGenerate.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.RazorTargetAssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.Views.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.csproj.CopyComplete
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ref\ProjetoAspNetMVC03.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\ProjetoAspNetMVC03.genruntimeconfig.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs

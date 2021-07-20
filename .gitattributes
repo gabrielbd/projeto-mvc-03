@@ -1,0 +1,4 @@
+* linguist-vendored
+*.JavaScript  linguist-vendored=false
+* linguist-vendored
+*.CSS  linguist-vendored=false

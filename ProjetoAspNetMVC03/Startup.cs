@@ -34,8 +34,12 @@ namespace ProjetoAspNetMVC03
             services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie();
 
             var connectionstring = Configuration.GetConnectionString("Conexao");
+
             services.AddTransient<IUsuarioRepository, UsuarioRepository>
             (map => new UsuarioRepository(connectionstring));
+
+            services.AddTransient<ITarefaRepository, TarefaRepository>
+            (map => new TarefaRepository(connectionstring));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

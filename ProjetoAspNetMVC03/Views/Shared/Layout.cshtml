@@ -50,7 +50,13 @@
             </div>
         </div>
     </nav>
-
+    @if (TempData["Mensagem"] != null)
+    {
+        <div class="alert alert-secondary alert-dismissible fade show" role="alert">
+            <strong>@TempData["Mensagem"]</strong>
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+        </div>
+    }
     <div class="container mt-4">
         @RenderBody()
     </div>

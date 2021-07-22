@@ -13,5 +13,6 @@ namespace ProjetoAspNetMVC03.Data.Entities
         public string Email { get; set; }
         public string Senha { get; set; }
         public DateTime DataCadastro { get; set; }
+        public List<Tarefa> Tarefas { get; set; }
     }
 }

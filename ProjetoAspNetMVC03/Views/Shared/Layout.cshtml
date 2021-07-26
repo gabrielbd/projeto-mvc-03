@@ -7,11 +7,11 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Curso Coti</title>
+    <title>Controle de Tarefas</title>
 
     <!-- referencia para os arquivos CSS do bootstrap -->
     <link href="~/css/bootstrap.css" rel="stylesheet" />
-
+    <link href="~/css/jquery.dataTables.min.css" rel="stylesheet" />
 </head>
 <body>
 
@@ -63,6 +63,17 @@
 
     <!-- referencia para arquivos JavaScript -->
     <script src="~/js/bootstrap.js"></script>
-
+    <script src="~/js/jquery-3.6.0.min.js"></script>
+    <script src="~/js/jquery.dataTables.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#tabela').DataTable(
+                {
+                    language: {
+                        url: '//cdn.datatables.net/plug-ins/1.10.25/i18n/Portuguese-Brasil.json'
+                    }
+                });
+        });
+    </script>
 </body>
 </html>

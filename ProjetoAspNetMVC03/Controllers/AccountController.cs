@@ -14,50 +14,39 @@ namespace ProjetoAspNetMVC03.Controllers
 {
     public class AccountController : Controller
     {
-        //atributo para acessar os métodos do repositorio (IUsuarioRepository)
         private readonly IUsuarioRepository _usuarioRepository;
 
-        //método construtor atraves do qual do AspNet MVC irá inicializar
-        //a interface IUsuarioRepository (injeção de dependencia)
         public AccountController(IUsuarioRepository usuarioRepository)
         {
             _usuarioRepository = usuarioRepository;
         }
 
-        //método utilizado para abrir a página de Login
         public IActionResult Login()
         {
             return View();
         }
 
-        //método executado pelo formulário da página
-        //chamado pelo SUBMIT (HTTP POST)
+
         [HttpPost]
         public IActionResult Login(AccountLoginModel model)
         {
-            //verificar se todos os campos passaram
-            //nas regras de validação com sucesso!
+
             if (ModelState.IsValid)
             {
                 try
                 {
-                    //consultar o usuario no banco de dados atraves do email e senha
                     var usuario = _usuarioRepository.Obter(model.Email, model.Senha);
 
-                    //verificar se o usuario foi encontrado
                     if (usuario != null)
                     {
-                        //criando a autenticação do usuario
                         var autenticacao = new ClaimsIdentity(
                             new[] { new Claim(ClaimTypes.Name, usuario.Email) },
                             CookieAuthenticationDefaults.AuthenticationScheme
                             );
 
-                        //gravar em cookie a autenticação
                         var claim = new ClaimsPrincipal(autenticacao);
                         HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claim);
 
-                        //redirecionar para a página /Home/Index
                         return RedirectToAction("Index", "Home");
                     }
                     else

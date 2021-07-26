@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ProjetoAspNetMVC03.Models
 {
-    public class TarefaCadastroModel
+    public class TarefaEdicaoModel
     {
+        public Guid IdTarefa { get; set; }
+        
         [MaxLength(25, ErrorMessage = "Por favor, informe no máximo 30 caracteres.")]
         [Required(ErrorMessage = "Por favor, informe o nome da tarefa.")]
         public string Nome { get; set; }
@@ -26,5 +28,4 @@ namespace ProjetoAspNetMVC03.Models
         public PrioridadeTarefa Prioridade { get; set; }
     }
 }
-
 

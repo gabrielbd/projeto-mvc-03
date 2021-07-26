@@ -46,9 +46,8 @@ namespace ProjetoAspNetMVC03.Controllers
                     tarefa.Hora = TimeSpan.Parse(model.Hora);
                     tarefa.Descricao = model.Descricao;
                     tarefa.Prioridade = model.Prioridade.ToString();
-                    tarefa.IdUsuario = usuario.IdUsuario; //chave estrangeira
+                    tarefa.IdUsuario = usuario.IdUsuario; 
 
-                    //cadastrando a tarefa
                     _tarefaRepository.Inserir(tarefa);
 
                     TempData["Mensagem"] = $"Tarefa {tarefa.Nome}, cadastrada com sucesso.";
@@ -65,6 +64,61 @@ namespace ProjetoAspNetMVC03.Controllers
 
         public IActionResult Consulta()
         {
+            try
+            {
+                var email = User.Identity.Name;
+                var usuario = _usuarioRepository.Obter(email);
+
+                var tarefas = _tarefaRepository.ConsultarPorUsuario(usuario.IdUsuario);
+
+                return View(tarefas);
+            }
+            catch (Exception e)
+            {
+                TempData["Mensagem"] = e.Message;
+            }
+
+            return View();
+        }
+
+        public IActionResult Exclusao(Guid id)
+        {
+            try
+            {
+                var tarefa = _tarefaRepository.ObterPorId(id);
+                _tarefaRepository.Excluir(tarefa);
+                TempData["Mensagem"] = $"Tarefa {tarefa.Nome}, excluida com sucesso.";
+            }
+            catch (Exception e)
+            {
+                TempData["Mensagem"] = e.Message;
+            }
+
+            return RedirectToAction("Consulta");
+        }
+
+        public IActionResult Edicao(Guid id)
+        {
+            try
+            {
+                var tarefa = _tarefaRepository.ObterPorId(id);
+
+                var model = new TarefaEdicaoModel();
+
+                model.IdTarefa = tarefa.IdTarefa;
+                model.Nome = tarefa.Nome;
+                model.Data = tarefa.Data.ToString("yyyy-MM-dd");
+                model.Hora = tarefa.Hora.ToString(@"hh\:mm");
+                model.Descricao = tarefa.Descricao;
+                model.Prioridade = (PrioridadeTarefa)Enum.Parse(typeof(PrioridadeTarefa), tarefa.Prioridade);
+
+                return View(model); 
+            }
+            catch (Exception e)
+            {
+                TempData["Mensagem"] = e.Message;
+            }
+
             return View();
         }
 
@@ -74,3 +128,5 @@ namespace ProjetoAspNetMVC03.Controllers
         }
     }
 }
+
+

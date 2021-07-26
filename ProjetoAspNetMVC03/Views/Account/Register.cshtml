@@ -21,7 +21,7 @@
         <div class="card">
             <div class="card-body text-center">
 
-                <img class="col-md-7" src="https://sistema.plancredi.com.br//pt_br/img/logo.png" />
+                <img class="col-md-7" src="https://grupotarefa.com.br/wp-content/themes/grupotarefa/images/logo-tarefa-facilities-services.png" />
 
                 <h5>Crie sua conta de Usuário</h5>
                 <hr />
@@ -45,14 +45,14 @@
                     <br />
 
                     <label>Email de acesso:</label>
-                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @autocomplete = "off" } )
                     <span class="text-danger">
                         @Html.ValidationMessageFor(model => model.Email)
                     </span>
                     <br />
 
                     <label>Senha de acesso:</label>
-                    @Html.PasswordFor(model => model.Senha, new { @class = "form-control" })
+                    @Html.PasswordFor(model => model.Senha, new { @class = "form-control" , @autocomplete = "off" })
                     <span class="text-danger">
                         @Html.ValidationMessageFor(model => model.Senha)
                     </span>

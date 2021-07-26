@@ -344,3 +344,4 @@ C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Tarefa\Cadastro.cshtml.g.cs
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Tarefa\Consulta.cshtml.g.cs
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Tarefa\Relatorio.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Tarefa\Edicao.cshtml.g.cs

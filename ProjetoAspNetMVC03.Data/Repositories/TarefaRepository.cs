@@ -109,5 +109,22 @@ namespace ProjetoAspNetMVC03.Data.Repositories
                         .FirstOrDefault();
             }
         }
+
+        public List<Tarefa> ConsultarPorUsuarioEPeriodo(Guid idUsuario, DateTime dataInicio, DateTime dataTermino)
+        {
+            var query = @"
+                        SELECT * FROM TAREFA
+                        WHERE IDUSUARIO = @idUsuario
+                        AND DATA BETWEEN @dataInicio AND @dataTermino
+                        ORDER BY DATA DESC, HORA DESC
+                    ";
+
+            using (var connection = new SqlConnection(_connectionstring))
+            {
+                return connection
+                    .Query<Tarefa>(query, new { idUsuario, dataInicio, dataTermino })
+                    .ToList();
+            }
+        }
     }
 }

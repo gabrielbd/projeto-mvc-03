@@ -35,6 +35,7 @@
         "dependencies": {
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "5.0.2",
           "ProjetoAspNetMVC03.Data": "1.0.0",
+          "ProjetoAspNetMVC03.Messages": "1.0.0",
           "ProjetoAspNetMVC03.Reports": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -1947,6 +1948,14 @@
         },
         "compile": {
           "ProjetoAspNetMVC03.Data.dll": {}
+        }
+      },
+      "ProjetoAspNetMVC03.Messages/1.0.0": {
+        "runtime": {
+          "ProjetoAspNetMVC03.Messages.dll": {}
+        },
+        "compile": {
+          "ProjetoAspNetMVC03.Messages.dll": {}
         }
       },
       "ProjetoAspNetMVC03.Reports/1.0.0": {
@@ -4599,6 +4608,11 @@
       "hashPath": "system.xml.xmldocument.4.3.0.nupkg.sha512"
     },
     "ProjetoAspNetMVC03.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjetoAspNetMVC03.Messages/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

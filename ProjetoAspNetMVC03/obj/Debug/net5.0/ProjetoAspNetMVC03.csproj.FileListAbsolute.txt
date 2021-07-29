@@ -361,3 +361,8 @@ C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\BouncyCastle.Crypto.dll
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Reports.dll
 C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Reports.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Usuario\MeusDados.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Usuario\EditarSenha.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\obj\Debug\net5.0\Razor\Views\Account\PasswordRecovery.cshtml.g.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Messages.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03\bin\Debug\net5.0\ProjetoAspNetMVC03.Messages.pdb

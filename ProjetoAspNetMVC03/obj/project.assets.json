@@ -2279,6 +2279,16 @@
           "bin/placeholder/ProjetoAspNetMVC03.Data.dll": {}
         }
       },
+      "ProjetoAspNetMVC03.Messages/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ProjetoAspNetMVC03.Messages.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ProjetoAspNetMVC03.Messages.dll": {}
+        }
+      },
       "ProjetoAspNetMVC03.Reports/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
@@ -7618,6 +7628,11 @@
       "path": "../ProjetoAspNetMVC03.Data/ProjetoAspNetMVC03.Data.csproj",
       "msbuildProject": "../ProjetoAspNetMVC03.Data/ProjetoAspNetMVC03.Data.csproj"
     },
+    "ProjetoAspNetMVC03.Messages/1.0.0": {
+      "type": "project",
+      "path": "../ProjetoAspNetMVC03.Messages/ProjetoAspNetMVC03.Messages.csproj",
+      "msbuildProject": "../ProjetoAspNetMVC03.Messages/ProjetoAspNetMVC03.Messages.csproj"
+    },
     "ProjetoAspNetMVC03.Reports/1.0.0": {
       "type": "project",
       "path": "../ProjetoAspNetMVC03.Reports/ProjetoAspNetMVC03.Reports.csproj",
@@ -7628,6 +7643,7 @@
     "net5.0": [
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 5.0.2",
       "ProjetoAspNetMVC03.Data >= 1.0.0",
+      "ProjetoAspNetMVC03.Messages >= 1.0.0",
       "ProjetoAspNetMVC03.Reports >= 1.0.0"
     ]
   },
@@ -7670,6 +7686,9 @@
           "projectReferences": {
             "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Data\\ProjetoAspNetMVC03.Data.csproj": {
               "projectPath": "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Data\\ProjetoAspNetMVC03.Data.csproj"
+            },
+            "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Messages\\ProjetoAspNetMVC03.Messages.csproj": {
+              "projectPath": "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Messages\\ProjetoAspNetMVC03.Messages.csproj"
             },
             "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Reports\\ProjetoAspNetMVC03.Reports.csproj": {
               "projectPath": "C:\\Users\\Marcelo\\Desktop\\ProjetoAspNetMVC03\\ProjetoAspNetMVC03.Reports\\ProjetoAspNetMVC03.Reports.csproj"

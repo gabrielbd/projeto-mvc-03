@@ -7,17 +7,18 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>Controle de Tarefas</title>
+    <title>COTI Informatica</title>
 
     <!-- referencia para os arquivos CSS do bootstrap -->
     <link href="~/css/bootstrap.css" rel="stylesheet" />
     <link href="~/css/jquery.dataTables.min.css" rel="stylesheet" />
+
 </head>
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="/Home/Index">Sistema de Controle de Tarefas</a>
+            <a class="navbar-brand" href="#">Sistema de Controle de Tarefas</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -37,6 +38,15 @@
                             <li><a class="dropdown-item" href="/Tarefa/Relatorio">Relatorio de tarefas</a></li>
                         </ul>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Minha Conta
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="/Usuario/MeusDados">Dados do usuário</a></li>
+                            <li><a class="dropdown-item" href="/Usuario/EditarSenha">Alterar senha de acesso</a></li>
+                        </ul>
+                    </li>
                 </ul>
                 <form class="d-flex">
                     <div class="text-white">
@@ -50,6 +60,7 @@
             </div>
         </div>
     </nav>
+
     @if (TempData["Mensagem"] != null)
     {
         <div class="alert alert-secondary alert-dismissible fade show" role="alert">
@@ -57,23 +68,28 @@
             <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
         </div>
     }
+
     <div class="container mt-4">
         @RenderBody()
     </div>
 
-    <!-- referencia para arquivos JavaScript -->
     <script src="~/js/bootstrap.js"></script>
     <script src="~/js/jquery-3.6.0.min.js"></script>
     <script src="~/js/jquery.dataTables.min.js"></script>
+
     <script>
+
         $(document).ready(function () {
             $('#tabela').DataTable(
                 {
                     language: {
                         url: '//cdn.datatables.net/plug-ins/1.10.25/i18n/Portuguese-Brasil.json'
                     }
-                });
+                }
+            );
         });
+
     </script>
+
 </body>
 </html>

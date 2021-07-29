@@ -61,6 +61,20 @@ namespace ProjetoAspNetMVC03.Data.Repositories
                 connection.Execute(query, usuario);
             }
         }
+        public void Alterar(Guid idUsuario, string novaSenha)
+        {
+            var query = @"
+                    UPDATE USUARIO SET
+                        SENHA = CONVERT(VARCHAR(32), HASHBYTES('MD5', @novaSenha), 2)
+                    WHERE
+                        IDUSUARIO = @idUsuario
+                ";
+
+            using (var connection = new SqlConnection(_connectionstring))
+            {
+                connection.Execute(query, new { idUsuario, novaSenha });
+            }
+        }
 
         public void Excluir(Usuario usuario)
         {
@@ -135,5 +149,6 @@ namespace ProjetoAspNetMVC03.Data.Repositories
                     .FirstOrDefault();
             }
         }
+
     }
 }

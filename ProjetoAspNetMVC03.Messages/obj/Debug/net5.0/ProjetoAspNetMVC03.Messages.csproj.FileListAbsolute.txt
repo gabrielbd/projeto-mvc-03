@@ -1,0 +1,12 @@
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Debug\net5.0\ProjetoAspNetMVC03.Messages.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Debug\net5.0\ProjetoAspNetMVC03.Messages.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Debug\net5.0\ref\ProjetoAspNetMVC03.Messages.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\bin\Debug\net5.0\ProjetoAspNetMVC03.Messages.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ref\ProjetoAspNetMVC03.Messages.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Messages\obj\Debug\net5.0\ProjetoAspNetMVC03.Messages.pdb

@@ -11,6 +11,7 @@ namespace ProjetoAspNetMVC03.Data.Interfaces
     {
         void Inserir(Usuario usuario);
         void Alterar(Usuario usuario);
+        void Alterar(Guid IdUsuario , string novaSenha);
         void Excluir(Usuario usuario);
         List<Usuario> Consultar();
         Usuario ObterPorId(Guid idUsuario);

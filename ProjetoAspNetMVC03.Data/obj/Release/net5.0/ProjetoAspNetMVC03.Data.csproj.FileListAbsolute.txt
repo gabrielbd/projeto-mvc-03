@@ -1,0 +1,12 @@
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\bin\Release\net5.0\ProjetoAspNetMVC03.Data.deps.json
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\bin\Release\net5.0\ProjetoAspNetMVC03.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\bin\Release\net5.0\ref\ProjetoAspNetMVC03.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\bin\Release\net5.0\ProjetoAspNetMVC03.Data.pdb
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.csprojAssemblyReference.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.AssemblyInfoInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.AssemblyInfo.cs
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ref\ProjetoAspNetMVC03.Data.dll
+C:\Users\Marcelo\Desktop\ProjetoAspNetMVC03\ProjetoAspNetMVC03.Data\obj\Release\net5.0\ProjetoAspNetMVC03.Data.pdb

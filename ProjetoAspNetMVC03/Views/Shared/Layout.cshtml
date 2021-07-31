@@ -7,7 +7,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>COTI Informatica</title>
+    <title>Sistema Tarefas Plancredi</title>
 
     <!-- referencia para os arquivos CSS do bootstrap -->
     <link href="~/css/bootstrap.css" rel="stylesheet" />
@@ -73,12 +73,24 @@
         @RenderBody()
     </div>
 
+    <!-- referencia para arquivos JavaScript -->
     <script src="~/js/bootstrap.js"></script>
     <script src="~/js/jquery-3.6.0.min.js"></script>
     <script src="~/js/jquery.dataTables.min.js"></script>
 
+    <!-- Adicionando as bibliotecas do Highcharts -->
+    <script src="~/js/highcharts.js"></script>
+    <script src="~/js/highcharts-3d.js"></script>
+    <script src="~/js/exporting.js"></script>
+    <script src="~/js/export-data.js"></script>
+
+    <!-- local para que a página /Home/Index possa
+        inserir conteudo dentro do layout -->
+    @RenderSection("grafico", required: false)
+
     <script>
 
+        //código javascript utilizando jquery
         $(document).ready(function () {
             $('#tabela').DataTable(
                 {

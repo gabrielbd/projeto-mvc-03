@@ -9,60 +9,60 @@
 Pesquise as tarefas cadastradas
 <br />
 <br />
-
-<table id="tabela" class="table table-striped table-hover">
-    <thead>
-        <tr>
-            <th>Nome da tarefa</th>
-            <th>Data</th>
-            <th>Hora</th>
-            <th>Prioridade</th>
-            <th>Descrição</th>
-            <th width="140">Operações</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
+<div class="table-responsive">
+    <table id="tabela" class="table table-striped table-hover">
+        <thead>
             <tr>
-                <td>@item.Nome</td>
-                <td>@item.Data.ToString("ddd, dd/MM/yyyy")</td>
-                <td>@item.Hora.ToString(@"hh\:mm")</td>
-                <td>
-                    @if (item.Prioridade.Equals("ALTA"))
-                    {
-                        <span class="badge bg-danger">ALTA</span>
-                    }
-                    else if (item.Prioridade.Equals("MEDIA"))
-                    {
-                        <span class="badge bg-warning">MÉDIA</span>
-                    }
-                    else if (item.Prioridade.Equals("BAIXA"))
-                    {
-                        <span class="badge bg-success">BAIXA</span>
-                    }
-                </td>
-                <td>@item.Descricao</td>
-                <td>
-                    <a href="/Tarefa/Edicao?id=@item.IdTarefa" class="btn btn-primary btn-sm">
-                        Editar
-                    </a>
-                    <a href="/Tarefa/Exclusao?id=@item.IdTarefa" 
-                       onclick="return confirm('Deseja excluir a tarefa?');"
-                       class="btn btn-danger btn-sm">
-                        Excluir
-                    </a>
+                <th>Nome da tarefa</th>
+                <th>Data</th>
+                <th>Hora</th>
+                <th>Prioridade</th>
+                <th>Descrição</th>
+                <th width="140">Operações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Data.ToString("dd/MM/yyyy")</td>
+                    <td>@item.Hora.ToString(@"hh\:mm")</td>
+                    <td>
+                        @if (item.Prioridade.Equals("ALTA"))
+                        {
+                            <span class="badge bg-danger">ALTA</span>
+                        }
+                        else if (item.Prioridade.Equals("MEDIA"))
+                        {
+                            <span class="badge bg-warning">MÉDIA</span>
+                        }
+                        else if (item.Prioridade.Equals("BAIXA"))
+                        {
+                            <span class="badge bg-success">BAIXA</span>
+                        }
+                    </td>
+                    <td>@item.Descricao</td>
+                    <td>
+                        <a href="/Tarefa/Edicao?id=@item.IdTarefa" class="btn btn-primary btn-sm">
+                            Editar
+                        </a>
+                        <a href="/Tarefa/Exclusao?id=@item.IdTarefa"
+                           onclick="return confirm('Deseja excluir a tarefa?');"
+                           class="btn btn-danger btn-sm">
+                            Excluir
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="6">
+                    Quantidade de tarefas: @Model.Count()
                 </td>
             </tr>
-        }
-    </tbody>
-    <tfoot>
-        <tr>
-            <td colspan="6">
-                Quantidade de tarefas: @Model.Count()
-            </td>
-        </tr>
-    </tfoot>
-</table>
-
+        </tfoot>
+    </table>
+    </div>
 
